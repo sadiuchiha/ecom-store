@@ -1,6 +1,7 @@
-# ecom-store
+# Ecom-Store-Demo
 
 Products can be viewed in a home page or separetely and added to cart in quantity, and takes to step by step process to take in sign in, shipping and payment information.
+
 It also has an Register view for users.
 
 #bugs
